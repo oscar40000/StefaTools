@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">StefaTools</string>
+    <string-array name="dzial">
+        <item>Elektro</item>
+        <item>Deko</item>
+        <item>Garten</item>
+        <item>Holz</item>
+        <item>Sanitar</item>
+        <item>Sonderprize</item>
+        <item>Werkzeug</item>
+        <item>Famila</item>
+        <item>ohne Wörterbuch</item>
+    </string-array>
+
+
+    <string-array name="bemerkung">
+        <item>Hw Links</item>
+        <item>Hw Rechts</item>
+        <item>As Links</item>
+        <item>As Rechts</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:id="@+id/gorna_belka"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/recycler_view"
+        android:background="@color/white">
+
+        <EditText
+            android:id="@+id/wpisPiersza"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:inputType="number"
+            android:text="1"
+            android:textColor="@color/black"
+            android:textColorHighlight="@color/white"
+            android:textColorLink="#000000" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="zatwierdzPierwsza"
+            android:src="@drawable/ic_add_check"
+            app:backgroundTint="#00136d" />
+
+        <Spinner
+            android:id="@+id/nazwa_dzialu"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
+            android:hint="Kunde"
+            android:textColor="@color/black"
+            android:textColorHighlight="#3300317A"
+            android:textColorHint="#3300317A"
+            android:textColorLink="#00136d" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="usunFile"
+            android:src="@drawable/ic_delete"
+            app:backgroundTint="#00136d" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:onClick="zapisz"
+            android:src="@drawable/ic_share"
+            app:backgroundTint="#00136d" />
+
+
+
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#243f8b"
+        android:padding="1dp"
+        android:scrollbarSize="10dp"
+        android:scrollbars="vertical"
+        android:scrollbarStyle="insideOverlay"
+        app:layout_constraintBottom_toTopOf="@+id/przyciski_belka"
+        app:layout_constraintTop_toTopOf="@id/gorna_belka"
+        tools:layout_editor_absoluteX="0dp"
+        tools:listitem="@layout/strefawiersz" />
+
+    <LinearLayout
+        android:id="@+id/przyciski_belka"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        app:layout_constraintBottom_toTopOf="@id/dolna_belka">
+
+
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.4"
+            android:hapticFeedbackEnabled="true"
+            android:onClick="naSamDol"
+            android:src="@drawable/ic_bottom"
+            app:backgroundTint="#00136d" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.4"
+            android:hapticFeedbackEnabled="true"
+            android:onClick="kopiaNaDol"
+            android:src="@drawable/ic__copy"
+            app:backgroundTint="#00136d" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="dodaj"
+            android:src="@drawable/ic_send"
+            app:backgroundTint="#00136d" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/dolna_belka"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="-28dp"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/wpisNumer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="1"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <AutoCompleteTextView
+            android:id="@+id/wpisNazwa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:hint="ZoneName"
+            android:imeOptions="actionNext"
+            android:nextFocusForward="@id/wpisDlugosc"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHighlight="#3300317A"
+            android:textColorHint="#3300317A"
+            android:textColorLink="#00136d" />
+
+        <EditText
+            android:id="@+id/wpisDlugosc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="M/A"
+            android:imeOptions="actionNext"
+            android:nextFocusForward="@id/wpisOpis"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHighlight="#3300317A"
+            android:textColorHint="#3300317A"
+            android:textColorLink="#00136d"
+            />
+
+        <AutoCompleteTextView
+            android:id="@+id/wpisOpis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:hint="Bemer."
+            android:imeOptions="actionSend"
+            android:nextFocusForward="@id/wpisNazwa"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHighlight="#3300317A"
+            android:textColorHint="#3300317A"
+            android:textColorLink="#00136d"
+
+            />
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

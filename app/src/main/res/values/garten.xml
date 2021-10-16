@@ -1,0 +1,479 @@
+<resources>
+
+    <string-array name="garten">
+        <item>Adventschale</item>
+<item>Akkugartengeräte</item>
+<item>Akku-Geräte</item>
+<item>Alberts</item>
+<item>Alpenveilchen</item>
+<item>Ampelschirme</item>
+<item>Anzünder</item>
+<item>Aquarien</item>
+<item>Aquarien / Tiernahrung</item>
+<item>Aquarien Beleuchtung</item>
+<item>Aquarien Pflanzen</item>
+<item>Aquariendeko</item>
+<item>Aquarienheizung</item>
+<item>Aquarienkies</item>
+<item>Aquarienmöbel</item>
+<item>Aquarienpflanzen</item>
+<item>Aquarienrückwände</item>
+<item>Aquarientechnik</item>
+<item>Aquarienzubehör</item>
+<item>Arbeitsschutz</item>
+<item>Arbeitssicherheit</item>
+<item>Aspen</item>
+<item>Astscheren</item>
+<item>Auflagenboxen</item>
+<item>Außenfilter</item>
+<item>Außenfiter</item>
+<item>Äxte</item>
+<item>Balkon Sets</item>
+<item>Balkonmöbel</item>
+<item>Bambusstäbe</item>
+<item>Bananenstaude</item>
+<item>Baukastensyt.</item>
+<item>Bbq  Grill</item>
+<item>Beerenobst</item>
+<item>Beeteinfassungen</item>
+<item>Beetplatten</item>
+<item>Beleuchtung</item>
+<item>Bellissa</item>
+<item>Belüftung</item>
+<item>Besen</item>
+<item>Bestelcenter</item>
+<item>Bierbank</item>
+<item>Bio-Gärtner</item>
+<item>Birkenstämme</item>
+<item>Blumenerde</item>
+<item>Blumenkästen</item>
+<item>Blumenspalier</item>
+<item>Blumenspruher</item>
+<item>Blumenstütze</item>
+<item>Blumenzwiebeln</item>
+<item>Bodenhülsen</item>
+<item>Bonsai</item>
+<item>Bosch</item>
+<item>Brennstoffe</item>
+<item>Brettschaukel</item>
+<item>Bromelie</item>
+<item>Bücher</item>
+<item>Buddha</item>
+<item>Carport Aufbereitung</item>
+<item>Cfh</item>
+<item>Christbaumständer</item>
+<item>Christrosen</item>
+<item>Clickfiesen</item>
+<item>Clickfliesen</item>
+<item>Co2  Düngung</item>
+<item>Deko</item>
+<item>Deko-Holz</item>
+<item>Dekolampen</item>
+<item>Dekosteine</item>
+<item>Dekowurzeln</item>
+<item>Designgitter</item>
+<item>Dibo</item>
+<item>Doppelstabmatten</item>
+<item>Drahtzäune</item>
+<item>Drucksprüher</item>
+<item>Ds-Matten</item>
+<item>Dünger</item>
+<item>Easy Led</item>
+<item>Eimer</item>
+<item>Einhell</item>
+<item>Einschlaghülsen</item>
+<item>Eisenpfosten</item>
+<item>Eisfreihalter</item>
+<item>Elho</item>
+<item>Erde</item>
+<item>Ex 9189 Parkplatz</item>
+<item>Fachbücher</item>
+<item>Fächerspalier</item>
+<item>Fackeln</item>
+<item>Fallschutzmatten</item>
+<item>Felix</item>
+<item>Fensterbilder</item>
+<item>Fertigteiche</item>
+<item>Feuerschale</item>
+<item>Feuerschalen</item>
+<item>Fiberglas</item>
+<item>Filtermaterial</item>
+<item>Filtertechnik</item>
+<item>Fische</item>
+<item>Fischfutter</item>
+<item>Fittinge</item>
+<item>Fl. Dünger</item>
+<item>Floraself</item>
+<item>Floraself Folien</item>
+<item>Floratorf</item>
+<item>Foliengirlande</item>
+<item>For Q Sprinkler</item>
+<item>For-Q</item>
+<item>For-Q  Bewässer.</item>
+<item>For-Q  Sprinkler</item>
+<item>Frischfleisch</item>
+<item>Frostfutter</item>
+<item>Frühbeet</item>
+<item>Frühblüher</item>
+<item>Fugenbürste</item>
+<item>Fugenreiniger</item>
+<item>Furflex</item>
+<item>Futter  -Lose-</item>
+<item>Futterhäuser</item>
+<item>Futterspender</item>
+<item>Gabionen</item>
+<item>Gardena</item>
+<item>Gardena Classic</item>
+<item>Gardena Clean</item>
+<item>Gardena Combi</item>
+<item>Gardena Regner</item>
+<item>Gardena Sprinkler</item>
+<item>Gardena System</item>
+<item>Garten Handschuhe</item>
+<item>Garten Info</item>
+<item>Gartenartikel</item>
+<item>Gartenbänke</item>
+<item>Gartenboxen</item>
+<item>Gartengeräte</item>
+<item>Gartenhelfer</item>
+<item>Gartenholz</item>
+<item>Gartenkörbe</item>
+<item>Gartenmöbel</item>
+<item>Gartenpumpe</item>
+<item>Gartenpumpen</item>
+<item>Gartenscheren</item>
+<item>Gartenschläuche</item>
+<item>Gartenschürze</item>
+<item>Gartenspielgeräte</item>
+<item>Gartentische</item>
+<item>Gartenwasserung</item>
+<item>Gasanzünder</item>
+<item>Geka</item>
+<item>Geräteschränke</item>
+<item>Geschlagene Tannen</item>
+<item>Get. Tannen</item>
+<item>Getopfte Tannen</item>
+<item>Getränkefass</item>
+<item>Gewächshaus</item>
+<item>Gießkannen</item>
+<item>Giftschrank</item>
+<item>Gitter</item>
+<item>Glaskugel</item>
+<item>Grabgabeln</item>
+<item>Grabkerzen</item>
+<item>Grabschalen</item>
+<item>Grillpavillon</item>
+<item>Grillroste</item>
+<item>Grills</item>
+<item>Grillzubehör</item>
+<item>Grillzubehör (Campingaz)</item>
+<item>Großpflanzen</item>
+<item>Großpflanzen / Erde</item>
+<item>Grünpflanzen</item>
+<item>Häcksler</item>
+<item>Handbund</item>
+<item>Handgeräte</item>
+<item>Handschuhe</item>
+<item>Hasendraht</item>
+<item>Hasenkäfig</item>
+<item>Hauswasserwerke</item>
+<item>Heckenscheren</item>
+<item>Heissner</item>
+<item>Heu</item>
+<item>Hochbeet</item>
+<item>Holzbriketts</item>
+<item>Holzfliesen</item>
+<item>Holzlaternen</item>
+<item>Holzspalter</item>
+<item>Holzunterstand</item>
+<item>Hundefutter</item>
+<item>Hundesnack</item>
+<item>Hundesofas</item>
+<item>Hundespielzeug</item>
+<item>Info</item>
+<item>Innefilter</item>
+<item>Insektenköder</item>
+<item>Insektenschutz</item>
+<item>Jonsered</item>
+<item>Jonsered Sägen</item>
+<item>Jonsered Trimmer</item>
+<item>Kaminbriketts</item>
+<item>Kaminholz</item>
+<item>Kaminholzunterstand</item>
+<item>Kanister</item>
+<item>Kasse</item>
+<item>Katzenfutter</item>
+<item>Katzengras</item>
+<item>Katzensnack</item>
+<item>Katzenspielzeug</item>
+<item>Katzenstreu</item>
+<item>Keramik Untersetzer</item>
+<item>Kerzen</item>
+<item>Kerzen Laternen</item>
+<item>Kerzenglas</item>
+<item>Kescher</item>
+<item>Keter</item>
+<item>Ketten</item>
+<item>Kettensägen</item>
+<item>Kiepenkerl</item>
+<item>Kies</item>
+<item>Kinderbesen</item>
+<item>Kissen</item>
+<item>Kleingartengeräte</item>
+<item>Kleintierstall</item>
+<item>Kokodama</item>
+<item>Komposter</item>
+<item>Koniferen</item>
+<item>Konsta</item>
+<item>Körbe</item>
+<item>Kragarm Schlauch</item>
+<item>Kratzbäume</item>
+<item>Kugelgrill</item>
+<item>Kugeln</item>
+<item>Künstl. Pflanzen</item>
+<item>Künstl. Wasserpflanzen</item>
+<item>Kunstofffliesen</item>
+<item>Kunstpflanzen</item>
+<item>Kürbise</item>
+<item>Lafiora</item>
+<item>Lamellenzaun</item>
+<item>Laternen</item>
+<item>Laternen/Grills</item>
+<item>Latten</item>
+<item>Laubsauger</item>
+<item>Lebende Fische</item>
+<item>Lechuza</item>
+<item>Led Figuren</item>
+<item>Led Kerzen</item>
+<item>Led Kezen</item>
+<item>Led Laternen</item>
+<item>Led-Figuren</item>
+<item>Leinen</item>
+<item>Lichterketten</item>
+<item>Maschendraht</item>
+<item>Mäuseköder</item>
+<item>Mesto Ersatzteile</item>
+<item>Metallzäune</item>
+<item>Metallzierzäune</item>
+<item>Motorhacken</item>
+<item>Mr. Beef     -Hund-</item>
+<item>Mr. Beef     -Katze-</item>
+<item>Mr.Corn</item>
+<item>Multi Gest. Syst.</item>
+<item>Nadelgehölze</item>
+<item>Nagerfutter</item>
+<item>Nagerzubehör</item>
+<item>Nano Cube</item>
+<item>Nano-Aquaristik</item>
+<item>Näpfe</item>
+<item>Noppenfolie</item>
+<item>Obstbäume</item>
+<item>Öle</item>
+<item>Orchideen</item>
+<item>Orchideenerde</item>
+<item>Paletten</item>
+<item>Palisaden</item>
+<item>Palleten</item>
+<item>Palletten</item>
+<item>Palmen</item>
+<item>Parkplatz Drive</item>
+<item>Partymöbel</item>
+<item>Partyzelt</item>
+<item>Pavillon</item>
+<item>Pfahl</item>
+<item>Pfähle</item>
+<item>Pflanzen</item>
+<item>Pflanzen / Töpfe</item>
+<item>Pflanzeninfo</item>
+<item>Pflanzenroller</item>
+<item>Pflanzenschutz</item>
+<item>Pflanzenstäbe</item>
+<item>Pflanzfefäße</item>
+<item>Pflanzgefäße</item>
+<item>Pflanzkasten</item>
+<item>Pflanzkästen</item>
+<item>Pflanzkörbe</item>
+<item>Pflanzkübel</item>
+<item>Pflanzstab</item>
+<item>Pflanzstäbe</item>
+<item>Pflanztöpf</item>
+<item>Pflanztöpfe</item>
+<item>Pfosten</item>
+<item>Pfostenkappen</item>
+<item>Plastikkugel</item>
+<item>Plastiktöpfe</item>
+<item>Poolchemie</item>
+<item>Pools</item>
+<item>Poolzubehör</item>
+<item>Primeltopf</item>
+<item>Projektpaletten</item>
+<item>Pumpen</item>
+<item>Pvc Abdeckung</item>
+<item>Querriegel</item>
+<item>Rankgitter</item>
+<item>Rankobelisken</item>
+<item>Rasendünger</item>
+<item>Rasenkante</item>
+<item>Rasenmäher</item>
+<item>Rasenmäherzub.</item>
+<item>Rasensamen</item>
+<item>Rattanmöbel</item>
+<item>Rattantöpfe</item>
+<item>Rattanvasen</item>
+<item>Raus Damit</item>
+<item>Rechen</item>
+<item>Reduz. Töpfe</item>
+<item>Reduz. Weihn.-Ware</item>
+<item>Regenspeicher</item>
+<item>Regentonnen</item>
+<item>Reinigung</item>
+<item>Rep.-Werkstatt</item>
+<item>Rindenmulch</item>
+<item>Rinti</item>
+<item>Robomäher</item>
+<item>Rollboard</item>
+<item>Rollbord</item>
+<item>Rollzaun</item>
+<item>Rückseite Markt</item>
+<item>Rundbogentor</item>
+<item>Rutschen</item>
+<item>Samen</item>
+<item>Sämereien</item>
+<item>Sandkästen</item>
+<item>Schaufel</item>
+<item>Schaukel</item>
+<item>Schilfrohmatten</item>
+<item>Schirme</item>
+<item>Schirmständer</item>
+<item>Schirmzubehör</item>
+<item>Schlauch  -Mtr. Ware-</item>
+<item>Schläuche</item>
+<item>Schlauchverschraubungen</item>
+<item>Schlauchwägen</item>
+<item>Schneeschieber</item>
+<item>Schutzhülen</item>
+<item>Schutzhüllen</item>
+<item>Schutzmatten</item>
+<item>Schutznetze</item>
+<item>Schwengelpumpen</item>
+<item>Seitent. F. Pavillon</item>
+<item>Seramis</item>
+<item>Sichtschutz Streifen</item>
+<item>Sichtschutzelemente</item>
+<item>Sichtschutzmatten</item>
+<item>Smart Pet</item>
+<item>Solarlaterne</item>
+<item>Sonnenschrim</item>
+<item>Spaliere</item>
+<item>Spaten</item>
+<item>Spaten - Gabel</item>
+<item>Spatengabel</item>
+<item>Spielsand</item>
+<item>Spielzeuge</item>
+<item>Spiralachlauch</item>
+<item>Sprühgeräte</item>
+<item>Stäbe</item>
+<item>Staketenzaun</item>
+<item>Steckschaum</item>
+<item>Stecksysteme</item>
+<item>Steckzäune</item>
+<item>Steckzaunsyst.</item>
+<item>Steclsysteme</item>
+<item>Stiele</item>
+<item>Stihl</item>
+<item>Stihl Arbeitsschutz</item>
+<item>Streufutter</item>
+<item>Streusalz</item>
+<item>Streuwagen</item>
+<item>Stuhl</item>
+<item>Stuhle</item>
+<item>Systemgeräte</item>
+<item>Tannenkranz</item>
+<item>Tasche</item>
+<item>Teichbecken</item>
+<item>Teichfolie</item>
+<item>Teichfutter</item>
+<item>Teichgitter</item>
+<item>Teichpumpen</item>
+<item>Teichzubehör</item>
+<item>Tenneker Grills</item>
+<item>Tenneker Grills - Zubehör</item>
+<item>Terrac.Töpfe</item>
+<item>Terrarien</item>
+<item>Terraristik</item>
+<item>Tetra</item>
+<item>Thermometer</item>
+<item>Thuja</item>
+<item>Tierbett</item>
+<item>Tierklappe</item>
+<item>Tiernahrung</item>
+<item>Tierpflege</item>
+<item>Tiersicherheit</item>
+<item>Tierstreu</item>
+<item>Tierzubehör</item>
+<item>Tischdecken</item>
+<item>Tomatenst.-Vlies</item>
+<item>Tomatenstäbe</item>
+<item>Tontöpfe</item>
+<item>Töpfe</item>
+<item>Töpfe - Grünpflanzen</item>
+<item>Töpfe / Pflanzen</item>
+<item>Torf</item>
+<item>Transportboxen</item>
+<item>Trimmer</item>
+<item>Trimmerspulen</item>
+<item>Trimmerzubehör</item>
+<item>Übertöpfe</item>
+<item>Univers. Stäbe</item>
+<item>Unkrautvlies</item>
+<item>Unters. Marcella</item>
+<item>Untersetzer</item>
+<item>Viking</item>
+<item>Vlies</item>
+<item>Vogelfutter</item>
+<item>Vogelhäuser</item>
+<item>Vogelkäfig</item>
+<item>Vogezubehör</item>
+<item>Volierendraht</item>
+<item>Vorderseite Markt</item>
+<item>Vorgartenzaun</item>
+<item>Wandschläuche</item>
+<item>Wäschespinne</item>
+<item>Wäschespinnen</item>
+<item>Wasserkanister</item>
+<item>Wasserpflanzen</item>
+<item>Wasserpflege</item>
+<item>Wassertechnik</item>
+<item>Weber Grills</item>
+<item>Weber Grills - Zubehör</item>
+<item>Weihmachtsbäume</item>
+<item>Weihnachtsartikel</item>
+<item>Weihnachtsbaum</item>
+<item>Weihnachtsbäume</item>
+<item>Weihnachtsbaumständer</item>
+<item>Weinfass</item>
+<item>Werkstatt</item>
+<item>Windhager</item>
+<item>Winterschutz</item>
+<item>Wolf</item>
+<item>Worx</item>
+<item>Wühlmausgitter</item>
+<item>Wurzeln</item>
+<item>Zaun Fliesen 1</item>
+<item>Zäune</item>
+<item>Zaunelemente</item>
+<item>Zaunflix</item>
+<item>Zaungabionen</item>
+<item>Zaunserie   -Dione-</item>
+<item>Zaunzubehör</item>
+<item>Zeitschaltuhr</item>
+<item>Zelt</item>
+<item>Ziergabionen</item>
+<item>Zierspalier</item>
+<item>Ziersträucher</item>
+<item>Ziesträucher</item>
+<item>Zinktöpfe</item>
+<item>Zweige</item>
+    </string-array>
+
+</resources>

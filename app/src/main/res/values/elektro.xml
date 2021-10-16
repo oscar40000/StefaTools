@@ -1,0 +1,191 @@
+﻿<resources>
+<string-array name="elekto">
+                       <item>Abb</item>
+                    <item>Abzweigdosen</item>
+                    <item>Abzweigkästen</item>
+                    <item>Aeg</item>
+                    <item>Aerotec</item>
+                    <item>Allzwekkiste</item>
+                    <item>Alpina</item>
+                    <item>Arbeitsleuchte</item>
+                    <item>Arbeitsschutz</item>
+                    <item>Arbeitstisch</item>
+                    <item>Aufputz</item>
+                    <item>Außenleuchten</item>
+                    <item>Badleuchten</item>
+                    <item>Ballistol</item>
+                    <item>Batterien</item>
+                    <item>Benning</item>
+                    <item>Berker</item>
+                    <item>Besen</item>
+                    <item>Bosch</item>
+                    <item>Boxensysteme</item>
+                    <item>Brennenstuhl</item>
+                    <item>Brilliant</item>
+                    <item>Briloner</item>
+                    <item>Busch Jaeger</item>
+                    <item>Busch Jager</item>
+                    <item>Busch-Jaeger</item>
+                    <item>Cellpack</item>
+                    <item>Chericoni</item>
+                    <item>Crosslink</item>
+                    <item>Deckenleuchten</item>
+                    <item>Drageana</item>
+                    <item>Eglo</item>
+                    <item>Einbauleuchten</item>
+                    <item>Einlagerung</item>
+                    <item>Elektrikerwerkzeug</item>
+                    <item>Elektro</item>
+                    <item>Elektroinstallation</item>
+                    <item>Fahrradständer</item>
+                    <item>Fassungen</item>
+                    <item>Firsty</item>
+                    <item>Flair</item>
+                    <item>Flaschenregal</item>
+                    <item>Fleckerl</item>
+                    <item>Flexible Leitungen</item>
+                    <item>Funkschalter</item>
+                    <item>Fußmatten</item>
+                    <item>Gira</item>
+                    <item>Gummimatten</item>
+                    <item>Gürteltaschen</item>
+                    <item>Halogenstrahler</item>
+                    <item>Handschuhe</item>
+                    <item>Heitronic</item>
+                    <item>Hohlwanddosen</item>
+                    <item>Holzleiter</item>
+                    <item>Honsel</item>
+                    <item>Info</item>
+                    <item>Installationsleitungen</item>
+                    <item>Installationsrohre</item>
+                    <item>Isolierbänder</item>
+                    <item>Jacken</item>
+                    <item>Jung</item>
+                    <item>Kabelbefestigung</item>
+                    <item>Kabelbinder</item>
+                    <item>Kabelkanäle</item>
+                    <item>Kabelklemmen</item>
+                    <item>Kabelorganisation</item>
+                    <item>Kabeltrommeln</item>
+                    <item>Kanister</item>
+                    <item>Kärcher</item>
+                    <item>Kasse 12</item>
+                    <item>Kasse 13-14</item>
+                    <item>Kasse 8</item>
+                    <item>Keter</item>
+                    <item>Kinderteppiche</item>
+                    <item>Klebefolie</item>
+                    <item>Kokosmatten</item>
+                    <item>Kommunikationskabel</item>
+                    <item>Kompressoren</item>
+                    <item>Kopp</item>
+                    <item>Kunstoffboxen</item>
+                    <item>Küpper</item>
+                    <item>Kupplungen</item>
+                    <item>Lagerbox</item>
+                    <item>Latzhose</item>
+                    <item>Led Fr-Leuchte</item>
+                    <item>Led Leuchte</item>
+                    <item>Led Leuchten</item>
+                    <item>Led Scheinwerfer</item>
+                    <item>Led Strahler</item>
+                    <item>Led-Accessoires</item>
+                    <item>Led-Band</item>
+                    <item>Led-Birne</item>
+                    <item>Led-Panel</item>
+                    <item>Led-Panels</item>
+                    <item>Leg Leuchte</item>
+                    <item>Leiste</item>
+                    <item>Leitern</item>
+                    <item>Leitungen</item>
+                    <item>Lesebrile</item>
+                    <item>Leuchten</item>
+                    <item>Leuchtenzubehör</item>
+                    <item>Leuchtmittel</item>
+                    <item>Lichtleiste</item>
+                    <item>Luftentfeuchter</item>
+                    <item>Lumak Pro</item>
+                    <item>Madeira</item>
+                    <item>Malmbergs</item>
+                    <item>Mantelleitung</item>
+                    <item>Merten</item>
+                    <item>Möbeltresore</item>
+                    <item>Multikoffer</item>
+                    <item>Näve</item>
+                    <item>Obo</item>
+                    <item>Outdoor Leuten</item>
+                    <item>Paulmann</item>
+                    <item>Pce</item>
+                    <item>Philips</item>
+                    <item>Poloshirt</item>
+                    <item>Profitrommel</item>
+                    <item>Pvc Stifel</item>
+                    <item>Rahmen</item>
+                    <item>Rasterleuchte</item>
+                    <item>Rauchwarnmelder</item>
+                    <item>Raus Damit</item>
+                    <item>Reduziert</item>
+                    <item>Renovierfassung</item>
+                    <item>Rollenboxen</item>
+                    <item>Rolli</item>
+                    <item>Roth Lange</item>
+                    <item>Sackkarren</item>
+                    <item>Schalter</item>
+                    <item>Schalterprogramme</item>
+                    <item>Schaumdichtband</item>
+                    <item>Schaumstoffe</item>
+                    <item>Schmutzfangmatten</item>
+                    <item>Schwaiger</item>
+                    <item>Sicherheitsschuh</item>
+                    <item>Sicherungen</item>
+                    <item>Sichtboxen</item>
+                    <item>Sitzkissen</item>
+                    <item>Smart Home</item>
+                    <item>Spannungsprüfer</item>
+                    <item>Splash Led</item>
+                    <item>Stalkiste</item>
+                    <item>Stapelboxen</item>
+                    <item>Stapelkörbe</item>
+                    <item>Steckdosenleisten</item>
+                    <item>Stecker</item>
+                    <item>Steinel</item>
+                    <item>Strickjacken</item>
+                    <item>Stufenmatten</item>
+                    <item>Sylvania</item>
+                    <item>Systemhalter</item>
+                    <item>Taschenlampen</item>
+                    <item>Teppiche</item>
+                    <item>Textilkabel</item>
+                    <item>Thermohemd</item>
+                    <item>Tisch Beläge</item>
+                    <item>Tischdecke</item>
+                    <item>Tischtuchklammer</item>
+                    <item>Toshiba</item>
+                    <item>Tuba Clean</item>
+                    <item>Türklingeln</item>
+                    <item>Türsprechanlagen</item>
+                    <item>Übergangsprofile</item>
+                    <item>Überwachung</item>
+                    <item>Umkleide Kabine</item>
+                    <item>Uvex</item>
+                    <item>Vario</item>
+                    <item>Varta</item>
+                    <item>Verbindungen</item>
+                    <item>Verlängerungen</item>
+                    <item>Verteilerkästen</item>
+                    <item>Wanddosen</item>
+                    <item>Wap Aqua</item>
+                    <item>Warnmelder</item>
+                    <item>Warnschutzhose</item>
+                    <item>Wd-40</item>
+                    <item>Wellrohre</item>
+                    <item>Werkbank</item>
+                    <item>Werkbänke</item>
+                    <item>Werkstatteinrichtung</item>
+                    <item>Werkzeugkoffer</item>
+                    <item>Yogamatten</item>
+                    <item>Zeitschaltuhr</item>
+                    <item>Zeitschaltuhren</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,216 @@
+<resources>
+    <string-array name="famila">
+        <item>Aktimel</item>
+        <item>Aktion</item>
+        <item>Aktion Mittelgang</item>
+        <item>Aktionsfläche</item>
+        <item>Alpro</item>
+        <item>Arko</item>
+        <item>Arzneimittel</item>
+        <item>Astor</item>
+        <item>Aufsteller</item>
+        <item>Autoradios</item>
+        <item>Autozubehör</item>
+        <item>Babykost</item>
+        <item>Babypflege</item>
+        <item>Backwaren</item>
+        <item>Backzutaten</item>
+        <item>Baguette</item>
+        <item>Batterien</item>
+        <item>Besen Bürsten</item>
+        <item>Bier</item>
+        <item>Bilderrahmen</item>
+        <item>Bio</item>
+        <item>Blumenpflege</item>
+        <item>Bonbons</item>
+        <item>Boxen</item>
+        <item>Brillen</item>
+        <item>Brita</item>
+        <item>Brot</item>
+        <item>Brotaufstrich</item>
+        <item>Bücher</item>
+        <item>Bügeleisen</item>
+        <item>Chips</item>
+        <item>Cola</item>
+        <item>Cremes</item>
+        <item>Damenhygiene</item>
+         <item>Deko</item>
+        <item>Deo</item>
+        <item>Destilliertes Wasser</item>
+        <item>Dosenmilch</item>
+        <item>Druckerpatronen</item>
+        <item>Dünger</item>
+        <item>Duschgel</item>
+        <item>DVDCDs</item>
+        <item>Eier</item>
+        <item>Einmachgläser</item>
+        <item>Elektro</item>
+        <item>Essence</item>
+        <item>Essig</item>
+        <item>Fachmarkt</item>
+        <item>Fackelmann</item>
+        <item>Fahrräder</item>
+        <item>Fahrradreifen</item>
+        <item>Fahrradzubehör</item>
+        <item>Feinkost</item>
+        <item>Fertiggerichte</item>
+        <item>Fingers</item>
+        <item>Fischkonserven</item>
+        <item>Fitness</item>
+        <item>Folien</item>
+        <item>Gartengeräte</item>
+        <item>Gebäck</item>
+        <item>Geflügel</item>
+        <item>Gemüse</item>
+        <item>Gemüsekonserven</item>
+        <item>Geschenkpapier</item>
+        <item>Geschirr</item>
+        <item>Lindt</item>
+        <item>Loreal</item>
+        <item>Magnettafeln</item>
+        <item>Manhattan</item>
+        <item>Matten</item>
+        <item>Max Factor</item>
+        <item>Mayonnaise</item>
+        <item>Mehl</item>
+        <item>Melitta</item>
+        <item>Messer-Set</item>
+        <item>Minus L</item>
+        <item>Mondamin</item>
+        <item>Mopro Fette</item>
+        <item>Mopro Joghurt</item>
+        <item>Mopro Käse</item>
+        <item>Mopro Milch</item>
+        <item>Müsli</item>
+        <item>Nährmittel</item>
+        <item>Navigation</item>
+        <item>Nivea</item>
+        <item>Non-Food</item>
+        <item>Nuk</item>
+        <item>Nutella</item>
+        <item>Obstkonserven</item>
+        <item>Öl</item>
+        <item>ölz</item>
+        <item>Ordner</item>
+        <item>Papier</item>
+        <item>Parfum</item>
+        <item>Party</item>
+        <item>Pfannen</item>
+        <item>Photo-Shop</item>
+        <item>Piccollos</item>
+        <item>Pinnwände</item>
+        <item>Plastik</item>
+        <item>Plastikgeschirr</item>
+        <item>Pommes</item>
+        <item>Pralinen</item>
+        <item>Putzmittel</item>
+        <item>Rasenmäher</item>
+        <item>Rasierbedarf</item>
+        <item>Rasierer</item>
+        <item>Red-Bull</item>
+        <item>Regenschirme</item>
+        <item>Reisegrößen</item>
+        <item>Rio Grande</item>
+        <item>Ritzenhoff</item>
+        <item>Rohlinge</item>
+        <item>Rolltreppe</item>
+        <item>Rotho</item>
+        <item>Säfte</item>
+        <item>Sahne</item>
+        <item>Salatdressing</item>
+        <item>Salz</item>
+        <item>Sanitas</item>
+        <item>Saucen</item>
+        <item>Sauerkonserven</item>
+        <item>Säule</item>
+        <item>SB Wurst</item>
+        <item>Schneidebretter</item>
+        <item>Schokolade</item>
+        <item>Scholl</item>
+        <item>Schreibwaren</item>
+        <item>Schuhe</item>
+        <item>Schwaiger</item>
+        <item>Seeberger</item>
+        <item>Seife</item>
+        <item>Seifen</item>
+        <item>Sekt</item>
+        <item>Senf</item>
+        <item>Servietten</item>
+        <item>Silit</item>
+        <item>Sirup</item>
+        <item>Socken</item>
+        <item>Soda</item>
+        <item>Soehnle</item>
+        <item>Spardosen</item>
+        <item>Spielwaren</item>
+        <item>Spirituosen</item>
+        <item>Sprühlacke</item>
+        <item>Staubsauger</item>
+        <item>Streu</item>
+        <item>Sushi Bar</item>
+        <item>Süßgebäck</item>
+        <item>Süßwaren</item>
+        <item>Swirl</item>
+        <item>Tabak</item>
+        <item>Tabakhülsen</item>
+        <item>Tafelservice</item>
+        <item>Taschen</item>
+        <item>Tchibo NF</item>
+        <item>Tee</item>
+        <item>Teigwaren</item>
+        <item>Tempos</item>
+        <item>Tesa</item>
+        <item>Tetesept</item>
+        <item>Textilien</item>
+        <item>Tiernahrung</item>
+        <item>Tierstreu</item>
+        <item>Tierzubehör</item>
+        <item>Tischdecken</item>
+        <item>TK - Schrank</item>
+        <item>TK Eis</item>
+        <item>TK Fisch</item>
+        <item>TK Geflügel</item>
+        <item>TK Gemüse</item>
+        <item>TK Pizza</item>
+        <item>TK Pommes</item>
+        <item>TK Backwaren</item>
+        <item>TK Fertiggerichte</item>
+        <item>TK Truhe</item>
+        <item>Toastbrot</item>
+        <item>Tomatensauce</item>
+        <item>Töpfe</item>
+        <item>Topf-Sets</item>
+        <item>Tortenböden</item>
+        <item>Trockensuppen</item>
+        <item>Truhe</item>
+        <item>Truhe Fertiggerichte</item>
+        <item>Truhe Fische</item>
+        <item>Truhe Salate</item>
+        <item>Uhu</item>
+        <item>Ültje</item>
+        <item>Unitec</item>
+        <item>Vandini</item>
+        <item>Vasen</item>
+        <item>Vesperboxen</item>
+        <item>Vivendi</item>
+        <item>Wasa</item>
+        <item>Waschmittel</item>
+        <item>Wasser</item>
+        <item>Water Proof</item>
+        <item>Wein</item>
+        <item>Weiße Ware</item>
+        <item>Vileda</item>
+        <item>Wenko</item>
+        <item>Windeln</item>
+        <item>Wolle</item>
+        <item>Wurstkonserven</item>
+        <item>Zahnpflege</item>
+        <item>Zeitschriften</item>
+        <item>Zenker</item>
+        <item>Zucker</item>
+        <item>Zwieback</item>
+        <item>Eingangsbereich</item>
+        <item>Küchengeräte</item>
+        <item>Handtaschen</item>
+    </string-array>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="1dp">
+
+    <LinearLayout
+
+        android:padding="5dp"
+        android:id="@+id/dolna_belka"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="true"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/numerView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Nr"
+            android:textColor="#000000"
+            android:textColorHint="#3300317A"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/nazwaView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:hint="ZoneName"
+            android:textColor="#000000"
+            android:textColorHint="#3300317A" />
+
+        <TextView
+            android:id="@+id/dlugoscView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="M/A"
+            android:textColor="#000000"
+            android:textColorHint="#3300317A" />
+
+        <TextView
+            android:id="@+id/opisView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Bemer."
+            android:textColor="#000000"
+            android:textColorHint="#3300317A" />
+
+    </LinearLayout>
+
+
+
+
+
+</androidx.cardview.widget.CardView>

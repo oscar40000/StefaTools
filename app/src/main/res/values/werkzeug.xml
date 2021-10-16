@@ -1,0 +1,336 @@
+<resources>
+    <string-array name="werkzeug">
+        <item>3M</item>
+        <item>Abus</item>
+        <item>Alberts</item>
+        <item>Allzweckkiste</item>
+        <item>Allzweckrolle</item>
+        <item>Allzwecksauger</item>
+        <item>Alpen</item>
+        <item>Anzünder</item>
+        <item>Arbeitsbekleidung</item>
+        <item>Arbeitsschutz</item>
+        <item>Atika</item>
+        <item>Außenbereich</item>
+        <item>Außenreinigung</item>
+        <item>Bandsägen</item>
+        <item>Bauwerkzeuge</item>
+        <item>Besen</item>
+        <item>Bits</item>
+        <item>Bleche</item>
+        <item>Blechschrauben</item>
+        <item>Bohrer</item>
+        <item>Bohrer Set</item>
+        <item>Bohrfutter</item>
+        <item>Bohrhammer</item>
+        <item>Bohrmaschinen</item>
+        <item>Bosch</item>
+        <item>Bosch Professional</item>
+        <item>Boxen</item>
+        <item>Boxensysteme</item>
+        <item>Brenner</item>
+        <item>Briefkästen</item>
+        <item>Burgwächter</item>
+        <item>Cfh</item>
+        <item>Cubes</item>
+        <item>Cuttermesser</item>
+        <item>Deckenstütze</item>
+        <item>Destilliertes Wasser</item>
+        <item>Disney</item>
+        <item>Dolle</item>
+        <item>Doppelschleifer</item>
+        <item>Draht</item>
+        <item>Drahtbürsten</item>
+        <item>Drahtseilklemmen</item>
+        <item>Drahtseilzubehör</item>
+        <item>Dremel</item>
+        <item>Dresselhaus</item>
+        <item>Dresselhaus Auffüllware</item>
+        <item>Dronco</item>
+        <item>Druckluftwerkzeuge</item>
+        <item>Dübel</item>
+        <item>Dübel Technik</item>
+        <item>Eckwinkel</item>
+        <item>Edelstahl</item>
+        <item>Eibenstock</item>
+        <item>Eimer</item>
+        <item>Einhell</item>
+        <item>Einschlaghülsen</item>
+        <item>Eisendraht</item>
+        <item>Elektrogeräte</item>
+        <item>Emsal</item>
+        <item>Evolution</item>
+        <item>Expres-Kasse</item>
+        <item>Fahrradständer</item>
+        <item>Faltkartons</item>
+        <item>Fecherscheiben</item>
+        <item>Filzgleiter</item>
+        <item>Flaschenregal</item>
+        <item>Fliesenlegerwerkzeug</item>
+        <item>Fliesenschneider</item>
+        <item>Gah.Alberts</item>
+        <item>Garderobe Haken</item>
+        <item>Geländer Systeme</item>
+        <item>Gerätehalter</item>
+        <item>Gewindestangen</item>
+        <item>Gipsplattenschrauben</item>
+        <item>Gitterleinen</item>
+        <item>Glasline</item>
+        <item>Griffe</item>
+        <item>Haken</item>
+        <item>Haken W</item>
+        <item>Hammer</item>
+        <item>Hämmer</item>
+        <item>Handlager</item>
+        <item>Handlager Bei Atika</item>
+        <item>Handlager Bei Cfh</item>
+        <item>Handlager Bei Hitachi</item>
+        <item>Handlager Bei Hufa</item>
+        <item>Handlager Bei Kärcher</item>
+        <item>Handlager Bei Maurerlob</item>
+        <item>Handlager Bei Pattfield</item>
+        <item>Handlager Bei Schleifpapier</item>
+        <item>Handlager Bei Starmix</item>
+        <item>Handlager Bei Trennscheibe</item>
+        <item>Handlager Bei Worx</item>
+        <item>Handsäge</item>
+        <item>Handschuhe</item>
+        <item>Haromac</item>
+        <item>Hausnummern</item>
+        <item>Heckenrose</item>
+        <item>Heller</item>
+        <item>Hettich</item>
+        <item>Hg</item>
+        <item>Hitachi</item>
+        <item>Hikoki</item>
+        <item>Holzregale</item>
+        <item>Holzkisten</item>
+        <item>Holzkonsolen</item>
+        <item>Holzschrauben</item>
+        <item>Hufa</item>
+        <item>Industrie Bit</item>
+        <item>Info</item>
+        <item>Innenreinigung</item>
+        <item>J.C.Schwarz</item>
+        <item>Jacken</item>
+        <item>Jokosit</item>
+        <item>Kalf</item>
+        <item>Karabiner</item>
+        <item>Kärcher</item>
+        <item>Kanister</item>
+        <item>Kasse 1</item>
+        <item>Kasse 10</item>
+        <item>Kasse 11</item>
+        <item>Kasse 12</item>
+        <item>Kasse 2-3</item>
+        <item>Kasse 4-5</item>
+        <item>Kasse 6-7</item>
+        <item>Kasse 7</item>
+        <item>Kasse 8-9</item>
+        <item>Kellen</item>
+        <item>Keter</item>
+        <item>Ketten</item>
+        <item>Klappbock</item>
+        <item>Klebepistolen</item>
+        <item>Kleinteilmagazin</item>
+        <item>Klingspor</item>
+        <item>Kompressoren</item>
+        <item>Konsolen</item>
+        <item>Kreissägeblatt</item>
+        <item>Küchenrollen</item>
+        <item>Kunstoffregal</item>
+        <item>Kupper</item>
+        <item>Kwb</item>
+        <item>Ladenband</item>
+        <item>Laserliner</item>
+        <item>Leifheit</item>
+        <item>Leitern</item>
+        <item>Lescha</item>
+        <item>Lessmann</item>
+        <item>Lochband</item>
+        <item>Lochbänder</item>
+        <item>Lochplatten</item>
+        <item>Lochsäge Bim</item>
+        <item>Löten</item>
+        <item>Lötwerkzeuge</item>
+        <item>Magnete</item>
+        <item>Makita</item>
+        <item>Maschinen</item>
+        <item>Masterlock</item>
+        <item>Maurerlob</item>
+        <item>Menzer</item>
+        <item>Messer</item>
+        <item>Messwerkzeuge</item>
+        <item>Metabo</item>
+        <item>Metallbearbeitung</item>
+        <item>Metallkoffer</item>
+        <item>Metallregale</item>
+        <item>Meterstab</item>
+        <item>Möbelfuße</item>
+        <item>Möbelgleiter</item>
+        <item>Möbelgriffe</item>
+        <item>Möbelrollen</item>
+        <item>Müllsäcke</item>
+        <item>Müllsackständer</item>
+        <item>Multistore</item>
+        <item>Muttern</item>
+        <item>Nägel</item>
+        <item>Nassreinigung</item>
+        <item>Nieten</item>
+        <item>Nigrin</item>
+        <item>Nilfisk</item>
+        <item>Nirgin</item>
+        <item>Novus</item>
+        <item>Papierrollen</item>
+        <item>Pattfield</item>
+        <item>Pferd</item>
+        <item>Pfeilen</item>
+        <item>Pflanzen</item>
+        <item>Pfostenlaschen</item>
+        <item>Pfostenträger</item>
+        <item>Picard</item>
+        <item>Platformwagen</item>
+        <item>Prebena</item>
+        <item>Profile</item>
+        <item>Projektschau</item>
+        <item>Projelt-Werkzeuge</item>
+        <item>Psc</item>
+        <item>Räder</item>
+        <item>Reduzierte Ware</item>
+        <item>Reer</item>
+        <item>Regalböden</item>
+        <item>Regale</item>
+        <item>Regalsysteme</item>
+        <item>Reifenfüller</item>
+        <item>Reiniger</item>
+        <item>Reinigung</item>
+        <item>Richtlatten</item>
+        <item>Ringschrauben</item>
+        <item>Rohrschellen</item>
+        <item>Rolladenzubehör</item>
+        <item>Rollen</item>
+        <item>Rollenboxen</item>
+        <item>Rolli</item>
+        <item>Rührer</item>
+        <item>Runddübel</item>
+        <item>Sackkarren</item>
+        <item>Sägeblatt</item>
+        <item>Sägen</item>
+        <item>Salztabletten</item>
+        <item>Scharniere</item>
+        <item>Schaufel</item>
+        <item>Scheiben</item>
+        <item>Scheibenklar</item>
+        <item>Schellenberg</item>
+        <item>Schilder</item>
+        <item>Schleifer</item>
+        <item>Schleifpapier</item>
+        <item>Schlösser</item>
+        <item>Schloßschrauben</item>
+        <item>Schnellbauschrauben</item>
+        <item>Schrauben</item>
+        <item>Schraubendreher</item>
+        <item>Schraubenhaken</item>
+        <item>Schraubstöcke</item>
+        <item>Schraubzwingen</item>
+        <item>Schuhe</item>
+        <item>Schuhregale</item>
+        <item>Schutzbeschläge</item>
+        <item>Schwammtücher</item>
+        <item>Schwerlastregal</item>
+        <item>Schwingschleifer</item>
+        <item>Seile</item>
+        <item>Seilhebezüge</item>
+        <item>Senkschrauben</item>
+        <item>Sicherheitschuhe</item>
+        <item>Sicherheitsschränke</item>
+        <item>Sichtboxen</item>
+        <item>Smart-Home</item>
+        <item>Sortiment-Kästen</item>
+        <item>Spatenstiel</item>
+        <item>Spezial Reiniger</item>
+        <item>Spezialeisenwaren</item>
+        <item>Stahlprofile</item>
+        <item>Stahlschrauben</item>
+        <item>Stapelboxen</item>
+        <item>Starlock</item>
+        <item>Starmix</item>
+        <item>Staubmasken</item>
+        <item>Staubsager</item>
+        <item>Staunsauherbeutel</item>
+        <item>Steckschlüssel</item>
+        <item>Steckschlüsselkästen</item>
+        <item>Steinbohrer-Set</item>
+        <item>Steinel</item>
+        <item>Steinplatten</item>
+        <item>Stichsäge</item>
+        <item>Stichsägeblätter</item>
+        <item>Stiefel</item>
+        <item>Stiele</item>
+        <item>Store-Plus</item>
+        <item>Stretchfolie</item>
+        <item>Strip</item>
+        <item>Stromerzeuger</item>
+        <item>Sturmhaken</item>
+        <item>Swirl</item>
+        <item>Tacker</item>
+        <item>Tarrox</item>
+        <item>Test Station</item>
+        <item>Tischbeine</item>
+        <item>Tischbohrmaschinen</item>
+        <item>Tischkreissägen</item>
+        <item>Tox</item>
+        <item>Tragekoffer</item>
+        <item>Träger</item>
+        <item>Transporthilfen</item>
+        <item>Transportroller</item>
+        <item>Transportrollen</item>
+        <item>Transportschutz</item>
+        <item>Trennscheiben</item>
+        <item>Tresore</item>
+        <item>Trockenbauschleifer</item>
+        <item>T-Schirts</item>
+        <item>Tücher Und Schwämme</item>
+        <item>Türdrücker</item>
+        <item>Türriegel</item>
+        <item>Türschlösser</item>
+        <item>Türstopper</item>
+        <item>Umzugdecke</item>
+        <item>Umzugskartons</item>
+        <item>Universal Messer</item>
+        <item>Universalschrauben</item>
+        <item>Varta</item>
+        <item>Versandtaschen</item>
+        <item>Vogelfutter</item>
+        <item>Wandhaken</item>
+        <item>Wandschienen</item>
+        <item>Wasserwaagen</item>
+        <item>Wd-40</item>
+        <item>Wendel Rührer</item>
+        <item>Werfgehänge</item>
+        <item>Werkbänke</item>
+        <item>Werkstatt</item>
+        <item>Werkstattchemie</item>
+        <item>Werkstatteinrichtung</item>
+        <item>Werkstattreinigung</item>
+        <item>Werkstattwagen</item>
+        <item>Werkzeuge</item>
+        <item>Werkzeughalter</item>
+        <item>Werkzeugkoffer</item>
+        <item>Wertschutzschränke</item>
+        <item>Wgb</item>
+        <item>Wickeldraht</item>
+        <item>Wiha</item>
+        <item>Windfang</item>
+        <item>Winkel</item>
+        <item>Winkelschleifer</item>
+        <item>Wolfcraft</item>
+        <item>Workpro</item>
+        <item>Workwear</item>
+        <item>Worx</item>
+        <item>Zangen</item>
+        <item>Zurrgurte</item>
+        <item>Zwingen</item>
+        <item>Zylinderschrauben</item>
+    </string-array>
+</resources>

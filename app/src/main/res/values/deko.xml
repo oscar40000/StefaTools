@@ -1,0 +1,380 @@
+<resources>
+<string-array name="deko">
+<item>Abdeckplanen</item>
+<item>Abdeckvlies</item>
+<item>Abus</item>
+<item>Aceton</item>
+<item>Acryl</item>
+<item>Acryl Lacke</item>
+<item>Acryllacke</item>
+<item>Aeg Dl</item>
+<item>Aeg Wand+Dl</item>
+<item>Albrecht</item>
+<item>Allzweckmatten</item>
+<item>Allzweckplane</item>
+<item>Alpina</item>
+<item>Alpina Deckenfarbe</item>
+<item>Alpina Farbrezepte</item>
+<item>Alpinaweiß</item>
+<item>Alu Jalousien</item>
+<item>Alurahmen</item>
+<item>Anzünder</item>
+<item>Auf Info</item>
+<item>Aussenleuchte</item>
+<item>Aussenleuchten Firenze</item>
+<item>Außenwandleuchten</item>
+<item>Autoluftfeuchter</item>
+<item>Avidsen</item>
+<item>B.B</item>
+<item>Bambusrollo</item>
+<item>Bastelbedarf</item>
+<item>Batterien</item>
+<item>Beleuchtete Steine</item>
+<item>Bilder</item>
+<item>Bilderhalter</item>
+<item>Bilderrahmen</item>
+<item>Bilderrahmen Zuschnitt</item>
+<item>Bleche</item>
+<item>Blechschilder</item>
+<item>Bodenbeläge Bis Tesa</item>
+<item>Bodenbeschichtung</item>
+<item>Bostik</item>
+<item>Bostil</item>
+<item>Botament</item>
+<item>Boxen</item>
+<item>Brennenstuhl</item>
+<item>D-C-Fix</item>
+<item>Deckenfarben</item>
+<item>Deckenleisten</item>
+<item>Deckenleuchten</item>
+<item>Deckenleuchten Junior</item>
+<item>Deckenplatten</item>
+<item>Deckenventilator</item>
+<item>Decko Flair</item>
+<item>Deco Flair</item>
+<item>Deco Info</item>
+<item>Decoflair</item>
+<item>Dekorschablone</item>
+<item>Deko-Vorhänge</item>
+<item>Des Creative</item>
+<item>Disney Tapeten</item>
+<item>Dl Eglo</item>
+<item>Dl Industrial</item>
+<item>Dl Steinel</item>
+<item>Dosen</item>
+<item>Edding</item>
+<item>Effect Line</item>
+<item>Eimer</item>
+<item>Eimer,Wagner</item>
+<item>Einbauleuchten</item>
+<item>Em Led</item>
+<item>Erdspieß Bologna</item>
+<item>Farben</item>
+<item>Farbinfo Innen</item>
+<item>Farbroller</item>
+<item>Farbwalze</item>
+<item>Fassadenfarben</item>
+<item>Fassadenweiss</item>
+<item>Feine Farbe</item>
+<item>Fertigbilder</item>
+<item>Feuchtraumleuchten</item>
+<item>Fingerfarbe</item>
+<item>Fix-O-Moll</item>
+<item>Flair</item>
+<item>Flair Dl Calla</item>
+<item>Flair Energy</item>
+<item>Flair Solar Wageleuchte</item>
+<item>Flooring</item>
+<item>Fototapeten</item>
+<item>Fridola</item>
+<item>Frogtape</item>
+<item>Fußmatten</item>
+<item>Gardinen</item>
+<item>Gardinenstange</item>
+<item>Gardinia</item>
+<item>Gartenstein Steckdose</item>
+<item>Gerätenhaus</item>
+<item>Gerflor</item>
+<item>Gewebeplane</item>
+<item>Glasfasertapeten</item>
+<item>Gleitschutz</item>
+<item>Glühbirnen</item>
+<item>Goldlack</item>
+<item>Grundierung</item>
+<item>Grün-Mix</item>
+<item>Grußkarten</item>
+<item>Hager</item>
+<item>Halogenlampen</item>
+<item>Heißklebestift</item>
+<item>Heizöl-Sperre</item>
+<item>Heller</item>
+<item>Ho Kreidefarben</item>
+<item>Ho Tester Pot</item>
+<item>Holzfarben</item>
+<item>Holzkisten</item>
+<item>Holzkohle</item>
+<item>Holzlasuren</item>
+<item>Holzöl</item>
+<item>Holzöle</item>
+<item>Holzrahmen</item>
+<item>Holzschutz</item>
+<item>Holzveredelung</item>
+<item>Hybrid</item>
+<item>Hybrid Lacke</item>
+<item>Info</item>
+<item>Info Aussen</item>
+<item>Info Innen</item>
+<item>Info1</item>
+<item>Innendämmung</item>
+<item>Insektenschutz</item>
+<item>Intertechno</item>
+<item>Isi Line</item>
+<item>Isoliergrund</item>
+<item>Isoliersperre</item>
+<item>Jalousien</item>
+<item>Joustra</item>
+<item>Jung</item>
+<item>Kabelkanäle</item>
+<item>Kabeltrommeln</item>
+<item>Kalender</item>
+<item>Kaminholz</item>
+<item>Kasse</item>
+<item>Kasse 1</item>
+<item>Kasse 2</item>
+<item>Kasse 3</item>
+<item>Keilrahmen</item>
+<item>Kerzen</item>
+<item>Kinderteppiche</item>
+<item>Kissen</item>
+<item>Kisten</item>
+<item>Klebebänder</item>
+<item>Klebefolie</item>
+<item>Kleber</item>
+<item>Klebstoffe</item>
+<item>Kleister</item>
+<item>Knauf</item>
+<item>Kokosmatten</item>
+<item>Körbe</item>
+<item>Körbe - Artist</item>
+<item>Krautol</item>
+<item>Kreativ</item>
+<item>Kreidefarbe</item>
+<item>Kreidefarben</item>
+<item>Künstlerbedarf</item>
+<item>Kunststoffrahmen</item>
+<item>Lack</item>
+<item>Lacke</item>
+<item>Lacken</item>
+<item>Lampen</item>
+<item>Lasuren</item>
+<item>Läufer</item>
+<item>Led Lampen</item>
+<item>Led Leuchtsmittel</item>
+<item>Led Panel</item>
+<item>Led Solarleuchten</item>
+<item>Led Spot.</item>
+<item>Led Strahler</item>
+<item>Leergebinde</item>
+<item>Leuchten</item>
+<item>Leuchtmittel</item>
+<item>Leuchtstoffröhren</item>
+<item>Lichtleiste</item>
+<item>Luftentfeuchter</item>
+<item>Lüsterklemmen</item>
+<item>Magnete</item>
+<item>Magneten</item>
+<item>Magnets</item>
+<item>Magnum</item>
+<item>Maler Overall</item>
+<item>Malerfolien</item>
+<item>Malerplane</item>
+<item>Malerwerkzeuge</item>
+<item>Malerzubehör</item>
+<item>Masterplug</item>
+<item>Maston</item>
+<item>Matten</item>
+<item>Mausefallen</item>
+<item>Maxiposter</item>
+<item>Meister Polarweiß</item>
+<item>Memoboards</item>
+<item>Messer</item>
+<item>Metallic</item>
+<item>Metallschilder</item>
+<item>Metallschutz</item>
+<item>Meterstab</item>
+<item>Metylan</item>
+<item>Mischfarben</item>
+<item>Modern Times</item>
+<item>Modulan</item>
+<item>Modulan Silokon</item>
+<item>Molto</item>
+<item>Müller Licht</item>
+<item>Müllerlicht</item>
+<item>Multirahmen</item>
+<item>Neben Info</item>
+<item>Nielsen</item>
+<item>Nostalgic</item>
+<item>Nostalgic Art</item>
+<item>Obstkisten</item>
+<item>Ofenspray</item>
+<item>Orchideen</item>
+<item>Ösenschal</item>
+<item>Ösenschals</item>
+<item>Paletten Sitzkissen</item>
+<item>Palettenkissen</item>
+<item>Palm</item>
+<item>Panneau</item>
+<item>Paternoster</item>
+<item>Pattex</item>
+<item>Paulmann</item>
+<item>Pce</item>
+<item>Pflanzen</item>
+<item>Pflanzenerde</item>
+<item>Pflanztöpfe</item>
+<item>Philips</item>
+<item>Philips Leuchten</item>
+<item>Philips Wandaussenl.</item>
+<item>Pinnwände</item>
+<item>Pinsel</item>
+<item>Planen</item>
+<item>Polar Weiss</item>
+<item>Polarweiß</item>
+<item>Poliboy</item>
+<item>Poster</item>
+<item>Postkarten</item>
+<item>Prinz</item>
+<item>Profile</item>
+<item>Pu Acryl Lacke</item>
+<item>Putze</item>
+<item>Pvc</item>
+<item>Pvc Läufet</item>
+<item>Rasen</item>
+<item>Raufaser</item>
+<item>Raufasertapeten</item>
+<item>Raus Damit</item>
+<item>Red. Ware</item>
+<item>Reduzierte Ware</item>
+<item>Red-Ware Bis Schuhabtropfwanne</item>
+<item>Reibeputz</item>
+<item>Reiniger</item>
+<item>Remmers</item>
+<item>Remmers Deckenfarbe</item>
+<item>Remmers Eco</item>
+<item>Remmers Hk-Lasur</item>
+<item>Reste</item>
+<item>Ring</item>
+<item>Röhre</item>
+<item>Rollputz</item>
+<item>Rowi</item>
+<item>Roxolid</item>
+<item>Sat-Zub.</item>
+<item>Schabloben</item>
+<item>Schablonen</item>
+<item>Schalter</item>
+<item>Schalterserien</item>
+<item>Schaumstoffe</item>
+<item>Schiebegardine</item>
+<item>Schiebegardinen</item>
+<item>Schiebengardinen</item>
+<item>Schilder</item>
+<item>Schimmel Entferner</item>
+<item>Schleifpapier</item>
+<item>Schrumpfschläuche</item>
+<item>Schutzlack</item>
+<item>Schutzmatten</item>
+<item>Season Pro Lights</item>
+<item>Seidenlatex</item>
+<item>Selection</item>
+<item>Senso</item>
+<item>Sicherungen</item>
+<item>Silikat</item>
+<item>Silikatfarben</item>
+<item>Sitzkissen</item>
+<item>Sk Fliesen</item>
+<item>Sockelfarben</item>
+<item>Sockelleisten</item>
+<item>Solar Led Leuchten</item>
+<item>Sole Vito</item>
+<item>Solevito</item>
+<item>Soluna</item>
+<item>Spachtel</item>
+<item>Spachteln</item>
+<item>Spezial Farben</item>
+<item>Spiegel</item>
+<item>Spotrondell Magnito</item>
+<item>Sprühlacke</item>
+<item>Starlicht</item>
+<item>Steckdosen</item>
+<item>Steckdosenleisten</item>
+<item>Stecker</item>
+<item>Steinel</item>
+<item>Steinel Sensor</item>
+<item>Sticker</item>
+<item>Stickers</item>
+<item>Stl Industrie</item>
+<item>Streichputz</item>
+<item>Streufutter</item>
+<item>Stromzähler</item>
+<item>Stufenmatten</item>
+<item>Style Color</item>
+<item>Styropor-Kleber</item>
+<item>Sylvania</item>
+<item>Tannenbäumen</item>
+<item>Tape</item>
+<item>Tapeten</item>
+<item>Tapeten Info</item>
+<item>Tapetenbücher</item>
+<item>Tapeteninfo</item>
+<item>Tapetenkleister</item>
+<item>Tapetzierset</item>
+<item>Tapeziergrund</item>
+<item>Tapezier-Tische</item>
+<item>Taschenlampen</item>
+<item>Teppich</item>
+<item>Teppich - Reste</item>
+<item>Teppichboden</item>
+<item>Teppiche</item>
+<item>Teppichen</item>
+<item>Teppich-Fliesen</item>
+<item>Terrassenplatte</item>
+<item>Tesa</item>
+<item>Textildeckenleuchten</item>
+<item>Tiefengrund</item>
+<item>Tisch Beläge</item>
+<item>Tischdecken 1M</item>
+<item>Tischleuchten</item>
+<item>Tischstaffelei</item>
+<item>Toshiba</item>
+<item>Toshiba Lampen</item>
+<item>Toshiba Led Lampen</item>
+<item>Tuba</item>
+<item>Türenlack</item>
+<item>Türenlacke</item>
+<item>Uhren</item>
+<item>Uhu</item>
+<item>Uhu Luftentfeuchter</item>
+<item>Umbauware</item>
+<item>Varta</item>
+<item>Velux</item>
+<item>Ventilatoren</item>
+<item>Verdünner</item>
+<item>Verlängerungen</item>
+<item>Verteilerkästen</item>
+<item>Vlies</item>
+<item>Vor Info</item>
+<item>Vorhänge</item>
+<item>Vorhangschienen</item>
+<item>Wagner</item>
+<item>Wandbeläge</item>
+<item>Wandfarbe</item>
+<item>Wandfarben</item>
+<item>Wandspiegel</item>
+<item>Waschmaschinen</item>
+<item>Weihnachtsstern</item>
+<item>Wetterschutzfarbe</item>
+<item>Wetterschutzfarben</item>
+<item>Windfang</item>
+<item>Wohn Welt</item>
+<item>Wohnraumlasuren</item>
+    </string-array>
+</resources>
