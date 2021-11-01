@@ -4,5 +4,6 @@ data class Strefa(
     var numer: Int,
     var nazwa: String,
     var dlugosc: String,
-    var opis: String
+    var opis: String,
+    var aktualny: Int = 0
 )

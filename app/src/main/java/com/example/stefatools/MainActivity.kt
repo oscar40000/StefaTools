@@ -46,12 +46,11 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
         recycler_view.layoutManager = LinearLayoutManager(this)
         recycler_view.setHasFixedSize(true)
         wpisPiersza.requestFocus()
+
         val tloDelete = ColorDrawable(Color.parseColor("#ff0000"))
         val tloAdd = ColorDrawable(Color.parseColor("#e1ad01"))
         val deleteIcon = ContextCompat.getDrawable(this, R.drawable.ic_delete)!!
         val addIcon = ContextCompat.getDrawable(this, R.drawable.ic_add)!!
-
-
         //blok slownika
         val dzial = resources.getStringArray(R.array.dzial)
         val adapterDzialu = ArrayAdapter1<String>(
@@ -216,7 +215,7 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
                             numerstrefyzatwierdz()
                             findViewById<TextView>(R.id.wpisNumer).text =
                                 listaStref[indexPrawo].numer.toString()
-
+                            aktualny()
                             findViewById<EditText>(R.id.wpisNazwa).setText("")
                             findViewById<EditText>(R.id.wpisDlugosc).setText("")
                             findViewById<EditText>(R.id.wpisOpis).setText("")
@@ -316,7 +315,7 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
 //    }
 
 
-//    @SuppressLint("NotifyDataSetChanged")
+        //    @SuppressLint("NotifyDataSetChanged")
 //    private fun handleSendText(intent: Intent) {
 //        intent.getStringExtra(Intent.EXTRA_TEXT)?.let {
 //            listaStref.clear()
@@ -350,6 +349,8 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
         val nastenaStrefaZatwierdz = (numerPierwszejStrefy + listaStref.size).toString()
         findViewById<TextView>(R.id.wpisNumer).text =
             (nastenaStrefaZatwierdz.toInt() - 1).toString()
+        aktualny()
+
     }
 
     fun dodaj(view: View) {
@@ -414,6 +415,7 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
         val txtNumer = listaStref[index].numer
         recycler_view.scrollToPosition(index)
         findViewById<TextView>(R.id.wpisNumer).text = (txtNumer + 1).toString()
+        aktualny()
         wpisNazwa.requestFocus()
         saveData()
 
@@ -421,9 +423,11 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
 
     override fun onItemClick(position: Int) {
         findViewById<TextView>(R.id.wpisNumer).text = listaStref[position].numer.toString()
+        aktualny()
         findViewById<EditText>(R.id.wpisNazwa).setText(listaStref[position].nazwa)
         findViewById<EditText>(R.id.wpisDlugosc).setText(listaStref[position].dlugosc)
         findViewById<EditText>(R.id.wpisOpis).setText(listaStref[position].opis)
+        var numerAktualny = listaStref[position].numer
         wpisNazwa.requestFocus()
         wpisNazwa.selectAll()
 
@@ -490,6 +494,7 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
         recycler_view.scrollToPosition(index)
         findViewById<TextView>(R.id.wpisPiersza).text = (listaStref[0].numer).toString()
         findViewById<TextView>(R.id.wpisNumer).text = (txtNumer + 1).toString()
+        aktualny()
         wpisNazwa.requestFocus()
     }
 
@@ -509,9 +514,11 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
 
         if (pozycja == (listaStref.size - 1)) {
             findViewById<TextView>(R.id.wpisNumer).text = (txtnumer.toInt() + 1).toString()
+            aktualny()
             wpisNazwa.requestFocus()
         } else {
             findViewById<TextView>(R.id.wpisNumer).text = (txtnumer.toInt() + 1).toString()
+            aktualny()
             findViewById<EditText>(R.id.wpisNazwa).setText(listaStref[pozycja + 1].nazwa)
             findViewById<EditText>(R.id.wpisDlugosc).setText(listaStref[pozycja + 1].dlugosc)
             findViewById<EditText>(R.id.wpisOpis).setText(listaStref[pozycja + 1].opis)
@@ -533,6 +540,7 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
         adapter.notifyItemInserted(index + 1)
         recycler_view.scrollToPosition(index + 1)
         findViewById<TextView>(R.id.wpisNumer).text = (txtNumer + 1).toString()
+        aktualny()
         wpisNazwa.requestFocus()
 
     }
@@ -559,6 +567,15 @@ class MainActivity : AppCompatActivity(), ListaAdapter.OnItemClickListener {
         naSamDol(view)
         dodawanieOstatniej()
         wpisNazwa.selectAll()
+
+    }
+
+    fun aktualny (){
+        val aktualny = findViewById<TextView>(R.id.wpisNumer).text.toString().toInt()
+        val strefa0 = Strefa(listaStref[0].numer,listaStref[0].nazwa,listaStref[0].dlugosc,listaStref[0].opis,aktualny)
+        listaStref[0]=strefa0
+        adapter.notifyDataSetChanged()
+
 
     }
 

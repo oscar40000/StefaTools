@@ -11,8 +11,8 @@
         android:id="@+id/gorna_belka"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:layout_constraintBottom_toTopOf="@id/recycler_view"
-        android:background="@color/white">
+        android:background="@color/white"
+        app:layout_constraintBottom_toTopOf="@id/recycler_view">
 
         <EditText
             android:id="@+id/wpisPiersza"
@@ -61,8 +61,6 @@
             app:backgroundTint="#00136d" />
 
 
-
-
     </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
@@ -72,8 +70,8 @@
         android:background="#243f8b"
         android:padding="1dp"
         android:scrollbarSize="10dp"
-        android:scrollbars="vertical"
         android:scrollbarStyle="insideOverlay"
+        android:scrollbars="vertical"
         app:layout_constraintBottom_toTopOf="@+id/przyciski_belka"
         app:layout_constraintTop_toTopOf="@id/gorna_belka"
         tools:layout_editor_absoluteX="0dp"
@@ -87,7 +85,6 @@
         app:layout_constraintBottom_toTopOf="@id/dolna_belka">
 
 
-
         <ImageButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -97,14 +94,14 @@
             android:src="@drawable/ic_bottom"
             app:backgroundTint="#00136d" />
 
-        <ImageButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="0.4"
-            android:hapticFeedbackEnabled="true"
-            android:onClick="kopiaNaDol"
-            android:src="@drawable/ic__copy"
-            app:backgroundTint="#00136d" />
+        //ImageButton
+        // android:layout_width="wrap_content"
+        // android:layout_height="wrap_content"
+        // android:layout_weight="0.4"
+        // android:hapticFeedbackEnabled="true"
+        // android:onClick="kopiaNaDol"
+        // android:src="@drawable/ic__copy"
+        // app:backgroundTint="#00136d" />
 
         <ImageButton
             android:layout_width="wrap_content"
@@ -121,17 +118,17 @@
         android:id="@+id/dolna_belka"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@color/white"
         android:padding="5dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_editor_absoluteX="-28dp"
-        android:background="@color/white">
+        tools:layout_editor_absoluteX="-28dp">
 
         <TextView
             android:id="@+id/wpisNumer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="1"
+            android:text="1000"
             android:textColor="#000000"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -164,8 +161,7 @@
             android:textColor="@color/black"
             android:textColorHighlight="#3300317A"
             android:textColorHint="#3300317A"
-            android:textColorLink="#00136d"
-            />
+            android:textColorLink="#00136d" />
 
         <AutoCompleteTextView
             android:id="@+id/wpisOpis"

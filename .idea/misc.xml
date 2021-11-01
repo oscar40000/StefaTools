@@ -5,9 +5,11 @@
       <map>
         <entry key="..\:/Users/Oskar/AndroidStudioProjects/StefaTools/app/src/main/res/drawable/ic__copy.xml" value="0.5703125" />
         <entry key="..\:/Users/Oskar/AndroidStudioProjects/StefaTools/app/src/main/res/drawable/ic_copy.xml" value="0.5703125" />
+        <entry key="..\:/Users/Oskar/AndroidStudioProjects/StefaTools/app/src/main/res/drawable/kolor_wiersza.xml" value="0.33055555555555555" />
         <entry key="..\:/Users/Oskar/AndroidStudioProjects/StefaTools/app/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/Oskar/AndroidStudioProjects/StefaTools/app/src/main/res/layout/autocomplet_layout.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/Oskar/AndroidStudioProjects/StefaTools/app/src/main/res/layout/plik_wiersz.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Oskar/AndroidStudioProjects/StefaTools/app/src/main/res/layout/strefawiersz.xml" value="0.5541666666666667" />
       </map>
     </option>
   </component>
